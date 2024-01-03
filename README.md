@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pink surfing application](https://play.google.com/store/apps/details?id=com.pinksurfing)
 
-- 🌱 I’m currently learning **NestJS and writing more clean code.**
+- 🌱 I’m currently learning **Django.**
 
 - 👨‍💻 Visit my portfolio and know more about me [https://omverma.tech/](https://omverma.tech/)
 
