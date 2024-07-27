@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omverma1810&label=Profile%20views&color=290eb4&style=flat-square" alt="omverma1810" /> </p>
 
-- 🔭 I’m currently working on [Pink surfing application](https://play.google.com/store/apps/details?id=com.pinksurfing)
+- 🔭 I’m currently working at [Piatrika Biosystems](https://piatrika.com/)
 
 - 🌱 I’m currently learning **Django.**
 
 - 👨‍💻 Visit my portfolio and know more about me [https://omverma.tech/](https://omverma.tech/)
 
-- 💬 Ask me about **React, Node and ExpressJS**
+- 💬 Ask me about **React and React-Native, Node and ExpressJS, Firebase, GCP and AWS, AI/ML/DL**
 
 - 📫 How to reach me **omverma1234q@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xF4qQuaO4GKj7LxMd_y972qMWDids0Pw/view?usp=sharing](https://drive.google.com/file/d/1xF4qQuaO4GKj7LxMd_y972qMWDids0Pw/view?usp=sharing)
 
-- ⚡ Fun fact **I am a hardcore cinephile, also having interest in International Politics.**
+- ⚡ Fun fact **I am a hardcore cinephile, also have interest in International Politics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
